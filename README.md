@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Riffat!
 
+A software developer currently in Year 3 pursuing a bachelor’s degree in Computer Science (Artificial Intelligence). 
+Researching into subject matters related to technology is a major interest of mine. Some of my favorite topics of research are Blockchain Technology, Ethereum, DeFi, Artificial Intelligence, Machine Learning, and Data Science.
+Approaching enthusiastically towards expanding my practical knowledge and skills in the fields of technology and business along with beating gender stereotypes as a woman in tech.
+
+### You can reach me at:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rk119/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_rifrof_)
+
+
 <!--
 **rk119/rk119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
