@@ -1,7 +1,11 @@
 ### Hi there 👋 I'm Riffat!
 
 # 💫 About Me:
-A software developer currently in Year 3 pursuing a bachelor’s degree in Computer Science (Artificial Intelligence). Researching into subject matters related to technology is a major interest of mine. Some of my favorite topics of research are Blockchain Technology, Ethereum, DeFi, Artificial Intelligence, Machine Learning, and Data Science. Approaching enthusiastically towards expanding my practical knowledge and skills in the fields of technology and business along with beating gender stereotypes as a woman in tech.
+:mortar_board: A software developer currently in Year 3 pursuing a bachelor’s degree in Computer Science (Artificial Intelligence). 
+
+:computer: Researching into subject matters related to technology is a major interest of mine. Some of my favorite topics of research are Blockchain Technology,     Ethereum, DeFi, Artificial Intelligence, Machine Learning, and Data Science. 
+
+:information_desk_person: Approaching enthusiastically towards expanding my practical knowledge and skills in the fields of technology and business along with beating gender stereotypes as a woman in tech.
 
 
 ## 🌐 Socials:
